@@ -1,2 +1,2 @@
 # Liliane-Owens
-My projects
+My School projects
